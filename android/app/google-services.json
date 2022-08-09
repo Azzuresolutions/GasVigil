@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "404311216103",
+    "project_id": "gvuserapp",
+    "storage_bucket": "gvuserapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404311216103:android:dced09020a7cd074573742",
+        "android_client_info": {
+          "package_name": "com.gasvigil.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404311216103-jmactbm3a4lgr2gjpga1ok5kb7gj7lml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5DCK1H-o7PgJyHmyCWT3kIv_YoEG8Ass"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404311216103-jmactbm3a4lgr2gjpga1ok5kb7gj7lml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "404311216103-nt0l5l55ro4vmckfn35qjjma9tltv5gq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gasvigil.userapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
